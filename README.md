@@ -1,6 +1,8 @@
 # Battleships
 This is a battleships clone written in python and pygame. It was designed so I could play around with different battleship AIs and so you interact with the board with a command line and view events through a log. Its designed primarily to allow programmers to mess about with the game battleships. 
 
+![image](https://github.com/DavidBlairs/Battleships/assets/54111529/72af8000-e776-4cbf-a134-d24ea2e592c8)
+
 ## Commands and Log Messages
 
 In the game, you can interact with the system by entering commands. These commands control various aspects of the game, and log messages are generated in response to these commands. Below, you'll find a list of available commands and the corresponding log messages.
